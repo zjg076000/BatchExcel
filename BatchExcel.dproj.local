@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/07/20 09:46:43.000.491,=C:\Users\zjg07\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/07/20 16:45:24.000.213,=C:\Users\zjg07\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/07/21 14:27:30.000.192,=C:\Users\zjg07\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/07/22 08:54:52.000.934,=C:\Users\zjg07\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/07/22 16:27:27.000.925,=C:\Users\zjg07\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/08/10 09:02:32.000.742,=C:\Users\zjg07\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/08/10 15:45:57.000.127,=C:\Users\zjg07\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/09/24 13:31:46.000.647,=C:\Users\zjg07\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/10/19 11:52:18.894,=C:\Users\zjg07\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/10/19 11:53:43.862,D:\公司工作文档\batchExcel\Unit2.pas=C:\Users\zjg07\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/10/19 11:53:43.862,D:\公司工作文档\batchExcel\Unit2.dfm=C:\Users\zjg07\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2021/10/19 11:58:56.295,D:\公司工作文档\batchExcel\Project2.dproj=C:\Users\zjg07\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2021/10/19 15:19:22.018,D:\公司工作文档\batchExcel\BatchExcel.dproj=D:\公司工作文档\batchExcel\Project2.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
